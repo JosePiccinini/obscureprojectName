@@ -5,5 +5,5 @@ WinMain(HINSTANCE hInstance,
 		LPSTR lpCmdLine,
 		int nCmdShow)
 {
-	return 1;
+	return 0;
 }
